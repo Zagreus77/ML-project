@@ -57,12 +57,6 @@ projet_cyber.ipynb          # Main analysis notebook
 pip install pandas numpy scikit-learn xgboost lightgbm matplotlib seaborn plotly jupyter
 ```
 
-### Running the Analysis
-1. Clone or download the project
-2. Open `projet_cyber.ipynb` in Jupyter Notebook or VSCode
-3. Run all cells sequentially
-4. Review results and visualizations
-
 ## 📈 Key Features
 
 - **Multi-Model Comparison**: 12+ ML algorithms tested
