@@ -78,7 +78,6 @@ pip install pandas numpy scikit-learn xgboost lightgbm matplotlib seaborn plotly
 - **Best Model Performance**: Random Forest (R² > 0.85)
 - **Anomaly Detection Rate**: 5-15% depending on method
 - **Risk Categories**: CRITICAL, HIGH, MEDIUM, LOW, MINIMAL
-- **ROI Estimation**: 440% return on security investments
 
 ## 💡 Business Value
 
